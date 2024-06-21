@@ -1,0 +1,24 @@
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+.buscador {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.opcion,
+.boton {
+  width: 200px;
+  height: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+.boton {
+  margin-top: 15px;
+  width: 100px;
+}
